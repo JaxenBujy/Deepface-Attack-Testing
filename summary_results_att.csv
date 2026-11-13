@@ -1,0 +1,17 @@
+condition,accepted,rejected,completed,errors,FRR
+Baseline,346,14,360,0,3.89
+Brightness 80%,345,15,360,0,4.17
+Brightness 60%,332,28,360,0,7.78
+Brightness 40%,188,172,360,0,47.78
+Blur 3,348,12,360,0,3.33
+Blur 5,341,19,360,0,5.28
+Blur 9,238,122,360,0,33.89
+Noise 5,346,14,360,0,3.89
+Noise 15,345,15,360,0,4.17
+Noise 30,262,98,360,0,27.22
+Occlusion 25%,340,20,360,0,5.56
+Occlusion 50%,183,177,360,0,49.17
+Occlusion 75%,7,353,360,0,98.06
+Rotation 5,345,15,360,0,4.17
+Rotation 10,340,20,360,0,5.56
+Rotation 20,281,79,360,0,21.94
